@@ -34,6 +34,7 @@ public class _codechef_april_long_april_4_ {
            -1
             2 4
          */
+        // try catch block is used because , there is nzec error that can be occured.
     try{
             Scanner sc=new Scanner(System.in);
             int t=sc.nextInt();
